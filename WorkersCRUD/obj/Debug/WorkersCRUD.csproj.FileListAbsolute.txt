@@ -1,0 +1,11 @@
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe.config
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.pdb
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.csproj.AssemblyReference.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.FormWorkersInfo.resources
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.Properties.Resources.resources
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.csproj.GenerateResource.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.csproj.CoreCompileInputs.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.exe
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.pdb

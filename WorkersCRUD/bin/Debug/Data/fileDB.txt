@@ -1,0 +1,9 @@
+Mateusz;Kowalski;Operator;5000;
+Krystian;Kolo;Operator;5000;
+Micahł;Obsługa;tesdt;546;
+Mateusz;Kwiatek;Operator;5000;
+Krzystof;Huk;Operator;5100;
+Zofia;Fiołek;Ksiegowa;5500;
+Sebastian;Koło;Kierowca;3500;
+Barbara;Warcaba;Obsługa;3600;
+Robert;Malik;Kierowca;4800;

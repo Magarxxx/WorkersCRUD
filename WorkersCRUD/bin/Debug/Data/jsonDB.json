@@ -1,0 +1,56 @@
+[
+  {
+    "FirstName": "Mateusz",
+    "LastName": "Kowalski",
+    "Position": "Operator",
+    "Salary": "5000"
+  },
+  {
+    "FirstName": "Krystian",
+    "LastName": "Kolo",
+    "Position": "Operator",
+    "Salary": "5000"
+  },
+  {
+    "FirstName": "Micah³",
+    "LastName": "Obs³uga",
+    "Position": "tesdt",
+    "Salary": "546"
+  },
+  {
+    "FirstName": "Mateusz",
+    "LastName": "Kwiatek",
+    "Position": "Operator",
+    "Salary": "5000"
+  },
+  {
+    "FirstName": "Krzystof",
+    "LastName": "Huk",
+    "Position": "Operator",
+    "Salary": "5100"
+  },
+  {
+    "FirstName": "Zofia",
+    "LastName": "Fio³ek",
+    "Position": "Ksiegowa",
+    "Salary": "5500"
+  },
+  {
+    "FirstName": "Sebastian",
+    "LastName": "Ko³o",
+    "Position": "Kierowca",
+    "Salary": "3500"
+  },
+  {
+    "FirstName": "Barbara",
+    "LastName": "Warcaba",
+    "Position": "Obs³uga",
+    "Salary": "3600"
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Malik",
+    "Position": "Kierowca",
+    "Salary": "4800"
+  }
+]

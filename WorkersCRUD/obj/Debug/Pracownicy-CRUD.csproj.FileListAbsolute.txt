@@ -1,0 +1,138 @@
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe.config
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.pdb
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.FormWorkersInfo.resources
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.Properties.Resources.resources
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.GenerateResource.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.exe
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.pdb
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.FormWorker.resources
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Buffers.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Collections.Immutable.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Memory.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Json.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Channels.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.ValueTuple.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Buffers.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Collections.Immutable.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Memory.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Json.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Channels.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.ValueTuple.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.CopyComplete
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.AssemblyReference.cache
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\MySql.Data.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Renci.SshNet.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Zstandard.Net.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\MySql.Data.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Renci.SshNet.xml
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\w65553\source\repos\WorkersCRUD\WorkersCRUD\bin\Debug\Newtonsoft.Json.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe.config
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.exe
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\WorkersCRUD.pdb
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\BouncyCastle.Crypto.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Buffers.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Memory.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Numerics.Vectors.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Encodings.Web.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Channels.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.ValueTuple.dll
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Google.Protobuf.pdb
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Google.Protobuf.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\K4os.Hash.xxHash.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Options.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\MySql.Data.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Newtonsoft.Json.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\Renci.SshNet.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Collections.Immutable.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Encodings.Web.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Text.Json.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Channels.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\bin\Debug\System.ValueTuple.xml
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.AssemblyReference.cache
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.FormWorker.resources
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.FormWorkersInfo.resources
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.Properties.Resources.resources
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.GenerateResource.cache
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.CoreCompileInputs.cache
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\Pracownicy-CRUD.csproj.CopyComplete
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.exe
+E:\STUDIA INFORMATYKA\semestr V\Programowanie\Projekt\WorkersCRUD\WorkersCRUD\obj\Debug\WorkersCRUD.pdb
